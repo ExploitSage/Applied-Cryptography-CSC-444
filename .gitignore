@@ -1,0 +1,10 @@
+SHW*
+venv
+venv*
+*.txt
+*.xcf
+*.odt
+*.png
+*.zip
+*_enc.*
+*_dec.*
